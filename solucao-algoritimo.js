@@ -35,7 +35,7 @@ function atualizarListaNotasExibidas() {
 /**
  * Calcula a média das notas e exibe o resultado (aprovado/reprovado) no HTML.
  */
-function calcularMedia() {
+function calcularMedia()  {
     let somatorioNotas = 0;
     let media = 0;
 
